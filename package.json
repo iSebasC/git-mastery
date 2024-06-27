@@ -4,7 +4,7 @@
   "description": "Descubre el poder de GitHub con \"GitHub Mastery\", una guía completa diseñada para hispanohablantes. Aprende desde lo básico hasta técnicas avanzadas con la ayuda de Sebastián y Piero, tus comandos expertos. Ya seas principiante o desarrollador experimentado, \"GitHub Mastery\" te llevará a dominar GitHub de manera eficiente y práctica. ¡Únete y transforma tu experiencia con GitHub!",
   "version": "0.0.1",
   "engines": {
-    "vscode": "^1.90.0"
+    "vscode": "^1.60.0"
   },
   "categories": [
     "Other"
